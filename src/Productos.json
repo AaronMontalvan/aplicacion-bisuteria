@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pulseras macramé",
+        "descripcion": "Pulsera de estilo macramé hecha a mano",
+        "precio": 70,
+        "image": "/Images/macrame.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Pulseras con perlas",
+        "descripcion": "Pulsera con perlas decorativas",
+        "precio": 50,
+        "image": "/Images/perlas.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Pulseras con mostacillas",
+        "descripcion": "Pulsera decorada con mostacillas",
+        "precio": 50,
+        "image": "/Images/mostacilla.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Pulseras con cuentas de madera",
+        "descripcion": "Pulsera con cuentas de madera natural",
+        "precio": 80,
+        "image": "/Images/madera.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Pulseras con piedras volcánicas",
+        "descripcion": "Pulsera con piedras volcánicas auténticas",
+        "precio": 160,
+        "image": "/Images/volcan.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Pulsera con ojos turcos",
+        "descripcion": "Pulsera con dijes de ojo turco",
+        "precio": 50,
+        "image": "/Images/turcos.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Pulseras con chaquirones distintos",
+        "descripcion": "Pulsera con variedad de chaquirones",
+        "precio": 75,
+        "image": "/Images/chaquirones.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Pulseras con dijes y estilo macramé",
+        "descripcion": "Pulsera de macramé con dijes decorativos",
+        "precio": 50,
+        "image": "/Images/macrame_dije.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Pulseras con arcilla polisémica",
+        "descripcion": "Pulsera hecha con arcilla polisémica",
+        "precio": 130,
+        "image": "/Images/arcilla.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Anillos de alambre con mostacillas",
+        "descripcion": "Anillo de alambre con decoración de mostacillas",
+        "precio": 60,
+        "image": "/Images/anillo_mostacilla.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Anillos de porcelana fría",
+        "descripcion": "Anillo hecho con porcelana fría",
+        "precio": 110,
+        "image": "/Images/porcelana_fria.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "Collares con perlas sintéticas",
+        "descripcion": "Collar decorado con perlas sintéticas",
+        "precio": 70,
+        "image": "/Images/perla_sintetica.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Collares con mostacillas",
+        "descripcion": "Collar hecho con mostacillas",
+        "precio": 120,
+        "image": "/Images/collar_mostacilla.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "Collares con conchas",
+        "descripcion": "Collar decorado con conchas",
+        "precio": 120,
+        "image": "/Images/concha.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Collares con chaquirones distintos",
+        "descripcion": "Collar con variedad de chaquirones",
+        "precio": 120,
+        "image": "/Images/collar_chaquirones.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "Collares con dijes e hilo",
+        "descripcion": "Collar con dijes y detalles en hilo",
+        "precio": 60,
+        "image": "/Images/dije_hilo.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Aretes con porcelana fría",
+        "descripcion": "Aretes hechos con porcelana fría",
+        "precio": 70,
+        "image": "/Images/arete_procelana.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Aretes con chaquirones",
+        "descripcion": "Aretes decorados con chaquirones",
+        "precio": 60,
+        "image": "/Images/aretes_chaquirones.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Aretes con mostacillas",
+        "descripcion": "Aretes decorados con mostacillas",
+        "precio": 50,
+        "image": "/Images/aretes_mostacilla.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Faldas Cortas",
+        "descripcion": "Falda corta de estilo tradicional",
+        "precio": 200,
+        "image": "/Images/falda_Corta.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "Faldas Largas",
+        "descripcion": "Falda larga de estilo tradicional",
+        "precio": 250,
+        "image": "/Images/falda_larga.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Vestidos",
+        "descripcion": "Vestido tradicional",
+        "precio": 250,
+        "image": "/Images/vestido.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Mínimo Vestidos",
+        "descripcion": "Vestido mínimo de estilo tradicional",
+        "precio": 280,
+        "image": "/Images/minimo vestido.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "Camisas",
+        "descripcion": "Camisa típica de estilo tradicional",
+        "precio": 200,
+        "image": "/Images/camisa.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Enterizos",
+        "descripcion": "Enterizo tradicional",
+        "precio": 250,
+        "image": "/Images/enterizo.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Pantalones",
+        "descripcion": "Pantalón de estilo tradicional",
+        "precio": 250,
+        "image": "/Images/pantalon.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Cotonas",
+        "descripcion": "Cotona tradicional",
+        "precio": 250,
+        "image": "/Images/cotona.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Monos",
+        "descripcion": "Mono de estilo tradicional",
+        "precio": 260,
+        "image": "/Images/mono.jpg"
+    },
+    {
+        "id": 29,
+        "nombre": "Sombreros de pita",
+        "descripcion": "Sombrero de pita",
+        "precio": 230,
+        "image": "/Images/sombrero.jpg"
+    }
+]

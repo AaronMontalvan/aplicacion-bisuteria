@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/aplicacion-bisuteria/build/static/css/main.d37a6901.css",
+    "main.js": "/aplicacion-bisuteria/build/static/js/main.4daaeb5d.js",
+    "static/js/453.09e5c7f2.chunk.js": "/aplicacion-bisuteria/build/static/js/453.09e5c7f2.chunk.js",
+    "static/media/whatsap.png": "/aplicacion-bisuteria/build/static/media/whatsap.6e53c09edf6e0a17b8c4.png",
+    "static/media/facebook.png": "/aplicacion-bisuteria/build/static/media/facebook.27e15bab1389dd245011.png",
+    "static/media/shop.png": "/aplicacion-bisuteria/build/static/media/shop.31ee7aba5532286798c2.png",
+    "static/media/instagram.jpeg": "/aplicacion-bisuteria/build/static/media/instagram.0bbb2a0bcf09fa3b1175.jpeg",
+    "index.html": "/aplicacion-bisuteria/build/index.html",
+    "main.d37a6901.css.map": "/aplicacion-bisuteria/build/static/css/main.d37a6901.css.map",
+    "main.4daaeb5d.js.map": "/aplicacion-bisuteria/build/static/js/main.4daaeb5d.js.map",
+    "453.09e5c7f2.chunk.js.map": "/aplicacion-bisuteria/build/static/js/453.09e5c7f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d37a6901.css",
+    "static/js/main.4daaeb5d.js"
+  ]
+}

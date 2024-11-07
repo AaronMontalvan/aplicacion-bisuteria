@@ -1,0 +1,9 @@
+body {
+    margin: 0; /* Elimina margen en el body */
+  }
+  
+  .carousel-item img {
+    width: 100vw; /* Ocupa todo el ancho de la ventana */
+    height: auto; /* Mantiene la proporción de la imagen */
+  }
+  
